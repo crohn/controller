@@ -13,7 +13,7 @@
 
 # Feel free to change the variables in this section to configure your keyboard
 
-BuildPath="ICED-L"
+BuildPath="BLCK-L"
 
 ## KLL Configuration ##
 
@@ -82,7 +82,7 @@ source cmake.bash
 
 # Feel free to change the variables in this section to configure your keyboard
 
-BuildPath="ICED-R"
+BuildPath="BLCK-R"
 
 ## KLL Configuration ##
 
